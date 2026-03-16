@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <rect width="64" height="64" rx="8" fill="#0d2818"/>
+  <text x="32" y="42" font-family="ui-monospace, 'Cascadia Code', 'Consolas', monospace" font-size="22" font-weight="bold" fill="#38db78" text-anchor="middle">&lt;/RS&gt;</text>
+</svg>

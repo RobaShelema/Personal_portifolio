@@ -19,7 +19,19 @@
         <span class="logo-text">&lt;Roba Dev&gt;</span>
     </a>
 
-    <ul>
+    <input type="checkbox" id="nav-toggle" class="nav-checkbox" aria-label="Toggle menu">
+    <div class="nav-mobile-actions">
+        <label for="theme-toggle" class="theme-toggle theme-toggle-mobile" aria-label="Toggle light/dark mode">
+            <span class="theme-icon theme-icon-sun"><i class="fa-solid fa-sun"></i></span>
+            <span class="theme-icon theme-icon-moon"><i class="fa-solid fa-moon"></i></span>
+        </label>
+        <label for="nav-toggle" class="nav-menu-btn" aria-hidden="true">
+            <i class="fa-solid fa-bars nav-icon-open"></i>
+            <i class="fa-solid fa-times nav-icon-close"></i>
+        </label>
+    </div>
+
+    <ul class="nav-menu">
         <li><a href="#home">Home</a></li>
         <li><a href="#about">About</a></li>
         <li><a href="#skills">Skills</a></li>

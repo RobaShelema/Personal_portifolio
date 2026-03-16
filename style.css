@@ -353,6 +353,18 @@ body:has(#theme-toggle:checked) .home{
     width:72%;
 }
 
+.git{
+    width:80%;
+}
+
+.github{
+    width:82%;
+}
+
+.tailwind{
+    width:78%;
+}
+
 /* Skill Icon */
 
 .skill-icon{
